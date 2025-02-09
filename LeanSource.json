@@ -1,17 +1,44 @@
 {
   "name": "Lean",
-  "games": [
+  "downloads": [
     {
-      "title": "Memoriapolis (v0.214)",
-      "download": "https://pixeldrain.com/u/LTzt7b5R",
-      "size": "591 MB",
-      "uploaded_at": "2024-09-23"
+      "title": "Memoriapolis (v0.214) [Pre-Instalado] ",
+      "uris": [
+        "https://pixeldrain.com/u/LTzt7b5R"
+      ],
+      "uploadDate": "2024-09-23T10:00:00.000Z",
+      "fileSize": "591 MB"
     },
     {
-      "title": "Halls of Torment v1.0",
-      "download": "magnet:?xt=urn:btih:PUF5CU7AKMDHGC75KWM2BYELLU7M6YVJ",
-      "size": "682.7 MB",
-      "uploaded_at": "2024-09-25"
+      "title": "Halls of Torment v1.0 [Pre-Instalado] ",
+      "uris": [
+        "magnet:?xt=urn:btih:PUF5CU7AKMDHGC75KWM2BYELLU7M6YVJ&dn=HoT%2024.09.24.7z&xl=715879431&tr.1=http%3A%2F%2Fretracker.local%2Fannounce&tr.2=&tr.3=http%3A%2F%2Fretracker.local%2Fannounce&tr.4=udp%3A%2F%2Fopentor.org%3A2710&tr.5=udp%3A%2F%2Ftracker.fatkhoala.org%3A13760%2Fannounce&tr.6=udp%3A%2F%2Ftracker.tallpenguin.org%3A15790%2Fannounce&tr.7=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr.8=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr.9=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr.10=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr.11=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr.12=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr.13=http%3A%2F%2Fbt.xbtrutor.com%3A2710%2Fannounce"
+      ],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "682.7 MB"
+    },
+    {
+      "title": "Song Of The Prairie [Pre-Instalado] ",
+      "uris": [
+        "https://pixeldrain.com/u/WdJHBecQ"
+      ],
+      "uploadDate": "2023-04-07T10:00:00.000Z",
+      "fileSize": "2.4 GB"
+    },
+    {
+      "title": "Big Ambitions (v0.1) [Pre-Instalado] ",
+      "uris": [
+        "https://pixeldrain.com/u/A3Nb4XpG"
+      ],
+      "uploadDate": "2024-09-26T10:00:00.000Z",
+      "fileSize": "2.6 GB"
+    },
+    {
+      "title": "GreedFall II: The Dying World [Pre-Instalado]",
+      "uris": [
+        "magnet:?xt=urn:btih:U3B5GZGI7MCMBNKGJNTJRAQT4GAQSTKV&dn=GreedFall%20II%20The%20Dying%20World&tr.1=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr.2=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr.3=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr.4=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr.5=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr.6=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr.7=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr.8=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr.9=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr.10=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr.11=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr.12=udp%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr.13=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr.14=udp%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr.15=udp%3A%2F%2Ftracker.0x7c0.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "26.5 GB"
     }
-  ]
-}
+  }
