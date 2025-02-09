@@ -8,18 +8,20 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #121212;
+            background-color: #0f0f0f;
             color: #ffffff;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            height: 100vh;
+            min-height: 100vh;
+            text-align: center;
         }
 
         h1 {
             font-size: 2.5rem;
-            margin-bottom: 2rem;
+            font-weight: bold;
+            margin-bottom: 1.5rem;
         }
 
         .button-container {
@@ -31,9 +33,10 @@
         button {
             background-color: #1f1f1f;
             color: #ffffff;
-            border: 1px solid #2e2e2e;
+            border: none;
             border-radius: 5px;
             padding: 0.8rem 1.5rem;
+            font-size: 1rem;
             cursor: pointer;
             transition: background-color 0.3s ease;
         }
@@ -43,12 +46,17 @@
         }
 
         .info-box {
-            background-color: #1f1f1f;
+            background-color: #1a1a1a;
             padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            max-width: 600px;
-            text-align: center;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+            max-width: 500px;
+        }
+
+        .info-box p {
+            margin: 1rem 0;
+            line-height: 1.6;
+            font-size: 0.95rem;
         }
 
         .info-box a {
@@ -77,12 +85,10 @@
     </div>
 
     <div class="info-box">
-        <h2>A Minha Fonte</h2>
         <p>
             Eu criei esta fonte com o intuito de ajudar a comunidade a ter um acesso facilitado a jogos no launcher do Hydra ao fornecer versões pré-instaladas desses mesmos jogos. Eu aceito pedidos de jogos pra se colocar na fonte, então se tiver algum pedido basta clicar no botão de pedir um jogo que você será redirecionado para um formulário onde poderá pedir o jogo.
         </p>
 
-        <h3>Acerca dos Links</h3>
         <p>
             Eu uso majoritariamente links de sites como <a href="#">SteamGG</a>, <a href="#">Gamdie</a>, <a href="#">Repack-Games</a>, <a href="#">GamePCFull</a> & <a href="#">Torrent-Games</a>. Todos eles estão presentes na <a href="#">Megathread r/Piracy</a> do Reddit.
         </p>
